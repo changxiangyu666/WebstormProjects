@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+       /* //创建对象
+        var reg=new RegExp(/\d{5}/);
+        //字符串
+        var str="我的电话是10086";
+        //调用方法验证字符串是否匹配
+        var flag=reg.test(str);
+        console.log(flag);*/
+
+       //创建对象
+       var reg=new RegExp(/\d{5}/);
+       //调用方法验证字符串是否匹配
+       var flag=reg.test("我的电话是10086");
+       console.log(flag);
+
+        var reg=/\d{1,5}/;
+        var flag=reg.test("小时收到货陪你成都市：6666");
+        console.log(flag);
+
+        console.log(/[0-9]/.test("1243575"));
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

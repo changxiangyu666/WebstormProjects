@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        //作用：可以改变this的指向
+        //"use strict";严格模式
+       /* function f1(x, y) {
+            console.log("结果：" + (x + y) + this);
+        }
+        window.f1(10, 30);
+        console.log("==============");
+        f1.apply();
+        f1.call();
+        console.log("==============");
+        f1.apply(null);
+        f1.call(null);*/
+        //apply和call方法中如果没有传入参数，或是传入null，那么调用该方法的函数对象中的this就是默认的window\]
+       /* f1.apply(null,[10,30]);
+        f1.call(null,10,30);*/
+
+        /*function f1(x,y){
+            console.log("这个函数是window对象的一个方法："+(x+y)+this.sex);
+        }
+        window.f1(10,20);
+        var obj={
+            age:10,
+            sex:"男"
+        };
+        window.f1.apply(obj,[10,20]);
+        window.f1.call(obj,10,20);
+        console.dir(obj);*/
+
+        function Person(age,sex){
+            this.age=age;
+            this.sex=sex;
+        }
+        Person.prototype.sayHi= function () {
+            console.log("你好"+this.sex);
+            return 1000;
+        };
+        var per=new Person(10,"男");
+        per.sayHi();
+
+        function Student(name,sex){
+            this.name=name;
+            this.sex=sex;
+        }
+        var stu=new Student("小明","人妖");
+        var r1=per.sayHi.apply(stu);
+        var r2=per.sayHi.call(stu);
+        console.log(r1);
+        console.log(r2);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

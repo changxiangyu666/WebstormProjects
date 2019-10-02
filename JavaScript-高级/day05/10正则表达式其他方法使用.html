@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        //正则表达式中：g表示的是全局模式匹配
+        //正则表达式中：i表示的是忽略大小写
+        var str = "中国移动：10086，中国联通：10010，中国电信：10000";
+        var array = str.match(/\d{5}/g);
+        console.log(array);
+
+        //提取这里的日
+        var str = "2017-11-12";
+        var array = str.match(/(\d{4})[-](\d{2})[-](\d{2})/g);
+        //正则表达式对象.$组数
+        console.log(RegExp.$3);
+
+        var email = "chenjxaichangxy@itcast.com.cn";
+        email.match(/([0-9a-zA-Z_.-]+)[@]([0-9a-zA-Z_-]+)(([.][a-zA-Z]+){1,2})/g);
+        console.log(RegExp.$1);
+        console.log(RegExp.$2);
+        console.log(RegExp.$3);
+
+        var str = "小明好聪明呀，真的是太聪明了，聪明就是聪明";
+        str = str.replace(/聪明/g, "机智");
+        console.log(str);
+
+        //trim()去前后空白格
+        var str = "   艾迪康    ，阿你是从而    ";
+        str = str.replace(/\s+/g, "");
+        console.log("=====" + str + "======");
+
+        //所有的h都替换成S
+        var str = "HhpphH";
+        str = str.replace(/[h]/gi, "S");
+        console.log(str);
+
+        var str = "中国移动：10086，中国联通：10010，中国电信：10000";
+        //var array=str.match(/\d{5}/g);
+        //正则表达式对象.exec方法传入字符串
+        var reg = /\d{5}/g;
+        //通过正则表达式匹配这个字符串
+        var array = reg.exec(str);
+        while (array != null) {
+            console.log(array[0]);
+            array=reg.exec(str);
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

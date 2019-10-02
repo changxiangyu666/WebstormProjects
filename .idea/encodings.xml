@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/nodejs/day01/02读取文件.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/03写文件.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/04http.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/05http-res.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/06http-url-res.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/a.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/b.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/加载与导出/a.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/加载与导出/b.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/08http-content-type.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day01/data/hello" charset="UTF-8" />
+  </component>
+</project>

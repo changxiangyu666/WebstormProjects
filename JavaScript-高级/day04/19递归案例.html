@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        //求n个数字的和，5
+        /*var sum=0;
+        for(var i=0;i<=5;i++){
+             sum+=i;
+        }
+        console.log(sum);*/
+        //递归实现
+        function getSum(num){
+            if(num==1){
+                return 1;
+            }
+            return num+getSum(num-1);
+        }
+        console.log(getSum(100));
+
+        //递归案例：求一个数字各个位数上的数字的和
+        function getEverySum(num){
+            if(num<10){
+                return num;
+            }
+            return num%10+getEverySum(parseInt(num/10));
+        }
+        console.log(getEverySum(1364));
+
+        //递归案例：求斐波那契数列
+        function getFib(x){
+            if(x==1||x==2){
+                return 1;
+            }
+            return getFib(x-1)+getFib(x-2);
+        }
+        console.log(getFib(12));
+    </script>
+</head>
+<body>
+
+</body>
+</html>
