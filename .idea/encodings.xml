@@ -12,5 +12,8 @@
     <file url="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/加载与导出/b.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nodejs/day01/08http-content-type.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nodejs/day01/data/hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day02/04Apache目录列表.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day02/06在node中使用模板引擎.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day02/08在Apache案例中加入模板引擎.js" charset="UTF-8" />
   </component>
 </project>

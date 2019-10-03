@@ -1,0 +1,51 @@
+.page-header a {
+    text-decoration: none;
+    width: 100px;
+    height:40px;
+    display: inline-block;
+    background-color: lightseagreen;
+    border-radius: 6px;
+    text-align:center;
+    line-height: 40px;
+    color: whitesmoke;
+    transition: all 1s;
+}
+.page-header a:hover{
+    background-color: whitesmoke;
+    color: lightseagreen;
+}
+.list-group li {
+    list-style: none;
+    padding: 10px;
+    border: 1px solid powderblue;
+    border-collapse: inherit;
+    border-radius: 4px;
+}
+div {
+    margin-bottom: 10px;
+}
+input,textarea {
+    outline: none;
+    border: 1px solid lightseagreen;
+    margin-top: 5px;
+}
+textarea {
+    width: 600px;
+    height: 100px;
+    resize: none;
+}
+button {
+    width: 80px;
+    height: 30px;
+    border: 1px solid lightseagreen;
+    color: lightseagreen;
+    background-color: whitesmoke;
+    transition: all 1s;
+}
+button:hover {
+    color:  whitesmoke;
+    background-color: lightseagreen;
+}
+.pull-right {
+    float: right;
+}
