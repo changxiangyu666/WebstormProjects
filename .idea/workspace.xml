@@ -20,30 +20,121 @@
     <favorites_list name="WebstormProjects" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="16函数案例.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/16函数案例.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="41.055557">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03函数练习.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/03函数练习.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="29.805555">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04函数练习.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/04函数练习.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="85.5">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05函数练习.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/05函数练习.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06函数案例.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/06函数案例.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="6.75">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07arguments对象.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/07arguments对象.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="24.75">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08函数的其他的定义方式.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/08函数的其他的定义方式.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="58.5">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09函数也是一种数据类型.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/09函数也是一种数据类型.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10函数作为参数使用.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/10函数作为参数使用.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="35.805557">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11Array对象.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Javascript 基础/day06/11Array对象.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.875153">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Html5" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/03遍历DOM树.html" />
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/04正则表达式.html" />
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/05创建正则表达式对象.html" />
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/06案例验证密码的强度.html" />
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/07验证用户输入的是不是邮箱.html" />
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/08验证用户输入的是不是中文.html" />
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/09验证表单.html" />
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/10正则表达式其他方法使用.html" />
-        <option value="$PROJECT_DIR$/JavaScript-高级/day05/11数组和伪数组.html" />
-        <option value="$PROJECT_DIR$/nodejs/day01/01helloworld.js" />
         <option value="$PROJECT_DIR$/nodejs/day01/data/hello" />
         <option value="$PROJECT_DIR$/nodejs/day01/02读取文件.js" />
         <option value="$PROJECT_DIR$/nodejs/day01/03写文件.js" />
@@ -85,6 +176,16 @@
         <option value="$PROJECT_DIR$/nodejs/day03/04express-demo/public/js/main.js" />
         <option value="$PROJECT_DIR$/nodejs/day03/04express-demo/app.js" />
         <option value="$PROJECT_DIR$/nodejs/day03/README.md" />
+        <option value="$PROJECT_DIR$/nodejs/day04/express-demo/public/login.html" />
+        <option value="$PROJECT_DIR$/nodejs/day04/express-demo/app.js" />
+        <option value="$PROJECT_DIR$/nodejs/day04/feedback-express/views/post.html" />
+        <option value="$PROJECT_DIR$/nodejs/day04/feedback-express/app.js" />
+        <option value="$PROJECT_DIR$/nodejs/day04/crud-express/app.js" />
+        <option value="$PROJECT_DIR$/nodejs/day04/crud-express/publlic/css/main.css" />
+        <option value="$PROJECT_DIR$/nodejs/day04/crud-express/views/index.html" />
+        <option value="$PROJECT_DIR$/nodejs/day04/crud-express/public/css/main.css" />
+        <option value="$PROJECT_DIR$/webapi/day07/1.html" />
+        <option value="$PROJECT_DIR$/Javascript 基础/day03/11冒泡排序.html" />
       </list>
     </option>
   </component>
@@ -136,44 +237,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="External Dependencies">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="C:">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Users">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="常香玉">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Documents">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="2018年最新传智播客黑马WEB前端36期全套视频教程 20180417">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="第14阶段：nodejs（7天）">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="nodejs资料（7天）">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="WebstormProjects">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -195,7 +258,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,6 +268,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,11 +285,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day04" />
+      <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day04\crud-express\public\css" />
+      <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day04\feedback-express" />
       <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day03" />
       <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day03\02require标识符分析" />
-      <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day02\feedback\public" />
-      <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day02\feedback" />
-      <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\常香玉\WebstormProjects\nodejs\day03" />
@@ -287,7 +350,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="932" y="0" width="998" height="1030" extended-state="1" />
+    <frame x="932" y="0" width="998" height="1030" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19467214" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -331,138 +394,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/c.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5697538">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/加载与导出/b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/07简单的模块化/加载与导出/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2848769">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/06http-url-res.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47479483">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/08http-content-type.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/resource/hello.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/resource/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03165299">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/resource/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03165299">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/resource/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/09http-fs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6647128">
-          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/01代码无分号问题.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50644785">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23133415">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/02-http-helloworld.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.47479483">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/05读取目录.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22157092">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/tpl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.0">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/07在浏览器中使用art-template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79314566">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/03像Apache一样.js">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/views/new.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -470,51 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/06在node中使用模板引擎.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75967175">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.25">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/04Apache目录列表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50644785">
-          <caret line="37" column="25" selection-start-line="33" selection-start-column="19" selection-end-line="37" selection-end-column="25" />
-          <folding>
-            <marker date="1570021153988" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/template-apache.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.694445">
-          <caret line="91" column="90" selection-start-line="91" selection-start-column="90" selection-end-line="91" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/08在Apache案例中加入模板引擎.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/views/404.html">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -522,7 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/node_modules/he/bin/he">
+    <entry file="file://$PROJECT_DIR$/webapi/day01/04初次体验DOM.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -530,7 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/public/lib/bootstrap/LICENSE">
+    <entry file="file://$PROJECT_DIR$/webapi/day01/05真正的体验DOM操作.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -538,23 +426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/public/lib/bootstrap/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7270502">
-          <caret line="140" column="2" selection-start-line="140" selection-start-column="2" selection-end-line="140" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/public/lib/bootstrap/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/public/js/main.js">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/views/edit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -562,7 +434,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/public/css/main.css">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -570,7 +442,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html和css/day02/css/style.css">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/express-demo/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -578,7 +458,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html和css/day03/20 导航栏/nav.html">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/feedback-express/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5697538">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -586,41 +474,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/public/lib/bootstrap/dist/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/router.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/09url模块.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12661196">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.194445">
-          <caret line="40" column="97" selection-start-line="40" selection-start-column="87" selection-end-line="40" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/views/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.25">
-          <caret line="35" column="143" selection-start-line="35" selection-start-column="143" selection-end-line="35" selection-end-column="143" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -628,7 +490,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day01/README.md">
+    <entry file="file://$PROJECT_DIR$/nodejs/day04/crud-express/student.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -636,35 +498,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day03/01node中的模块系统/main.js">
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/07总结数组基础知识.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day03/01node中的模块系统/foo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day03/02require标识符分析/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.67760843">
+        <state vertical-scroll-proportion="17.805555">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day03/03-require优先从缓存加载/a.js">
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day01/14操作符.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="71.05556">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day01/13类型转换.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.25">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day01/12布尔类型.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -672,7 +530,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day01/10数字类型.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -680,50 +538,259 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day03/04express-demo/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4357405">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day03/04express-demo/public/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03165299">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day03/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.997555">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day02/feedback/app.js">
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/04流程控制.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#399#785#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/day03/04express-demo/app.js">
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/05分支语句之if语句.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44314185">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/06分支语句之if-else语句.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="40.305557">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/10总结分支语句.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/11循环语句之while循环.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/14总结while循环和do-while循环.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/15循环语句之for循环.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/16for循环的练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="20.805555">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/17for循环案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="20.25">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/18乘法口诀表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day02/19调试.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/04continue关键字使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/05数组.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="51.555557">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/06数组的注意问题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0555556">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/08for循环遍历数组.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/09数组案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="53.055557">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/10数组案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="54.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/11冒泡排序.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.25">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/12函数介绍及定义.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="100.30556">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/13函数的小练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="60.75">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/14函数的参数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="17.055555">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/15函数的返回值.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day03/16函数案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="41.055557">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/03函数练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="29.805555">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/04函数练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="85.5">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/05函数练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/06函数案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.75">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/07arguments对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="24.75">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/08函数的其他的定义方式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="58.5">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/09函数也是一种数据类型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day04/10函数作为参数使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="35.805557">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript 基础/day06/11Array对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.875153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

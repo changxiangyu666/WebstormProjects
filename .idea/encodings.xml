@@ -16,5 +16,7 @@
     <file url="file://$PROJECT_DIR$/nodejs/day02/06在node中使用模板引擎.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nodejs/day02/08在Apache案例中加入模板引擎.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nodejs/day03/04express-demo/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day04/crud-express/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodejs/day04/feedback-express/app.js" charset="UTF-8" />
   </component>
 </project>
