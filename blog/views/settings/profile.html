@@ -1,0 +1,79 @@
+{{extend '../_layouts/home.html'}}
+
+{{block 'title'}}{{'多人博客 - 首页'}}{{/block}}
+
+{{block 'body'}}
+<section class="container">
+  {{include '../_partials/settings-nav.html'}}
+  <div class="col-md-5">
+    <form id="profile_form" method="post" action="/settings/profile">
+      <input type="hidden" name="id" value="5da6e8056152eb2498fe1fce">
+      <div class="form-group">
+        <label for="email">账号</label>
+        <p class="form-control-static" id="email">123456@qq.com</p>
+      </div>
+      <div class="form-group">
+        <label for="nickname">昵称</label>
+        <input type="text" class="form-control" id="nickname" placeholder="">
+      </div>
+      <div class="form-group">
+        <label for="bio">介绍</label>
+        <textarea class="form-control" id="bio" rows="3"></textarea>
+      </div>
+      <div class="form-group">
+        <label for="gender">性别</label>
+        <div  id="gender" >
+          <label class="radio-inline">
+            <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"> 男
+          </label>
+          <label class="radio-inline">
+            <input type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2"> 女
+          </label>
+          <label class="radio-inline">
+            <input type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3"> 保密
+          </label>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="birthday">生日</label>
+        <input type="datetime" class="form-control" id="birthday" placeholder="">
+      </div>
+      <button type="submit" class="btn btn-success">保存</button>
+    </form>
+  </div>
+  <div class="col-md-2 profile-avatar">
+    <dl>
+      <dt>头像设置</dt>
+      <dd>
+        <img class="avatar" width="150" height="150" src="../public/img/avatar-max-img.png" alt="">
+        <div>
+          <button class="btn btn-default" href="">Upload new picture</button>
+        </div>
+      </dd>
+    </dl>
+  </div>
+  <script src="/node_modules/jquery/dist/jquery.js"></script>
+  <script>
+    $('#profile_form').on('submit', function (e) {
+      e.preventDefault()
+      var formData = $(this).serialize()
+      console.log(formData)
+      $.ajax({
+        url: '/settings/profile',
+        type: 'post',
+        data: formData,
+        dataType: 'json',
+        success: function (data) {
+          var err_code = data.err_code
+          if (err_code === 0) {
+            // 服务端重定向针对异步请求无效
+            window.location.href = '/'
+          } else if (err_code === 500) {
+            window.alert('服务器忙，请稍后重试！')
+          }
+        }
+      })
+    })
+  </script>
+</section>
+{{/block}}

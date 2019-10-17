@@ -1,0 +1,55 @@
+{{extend '../_layouts/home.html'}}
+
+{{block 'title'}}{{'多人博客 - 首页'}}{{/block}}
+
+{{block 'body'}}
+<section class="container">
+  <div class="row">
+    <div class="col-md-5">
+      <form id="new_form" method="post" action="/topics/new">
+        <div class="form-group">
+          <label for="plate">选择板块</label>
+          <select class="form-control" id="plate" name="plate">
+            <option>分享</option>
+            <option>问答</option>
+            <option>招聘</option>
+            <option>客户端测试</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="topic">标题</label>
+          <input type="topic" class="form-control" id="topic" name="topic" placeholder="请输入标题"  autofocus>
+        </div>
+        <div class="form-group">
+          <label for="message">内容</label>
+          <textarea class="form-control" id="message" name="message" rows="3"></textarea>
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+    </div>
+  </div>
+  <script src="/node_modules/jquery/dist/jquery.js"></script>
+  <script>
+    $('#new_form').on('submit', function (e) {
+      e.preventDefault()
+      var formData = $(this).serialize()
+      console.log(formData)
+      $.ajax({
+        url: '/topics/new',
+        type: 'post',
+        data: formData,
+        dataType: 'json',
+        success: function (data) {
+          var err_code = data.err_code
+          if (err_code === 0) {
+            // 服务端重定向针对异步请求无效
+            window.location.href = '/'
+          } else if (err_code === 500) {
+            window.alert('服务器忙，请稍后重试！')
+          }
+        }
+      })
+    })
+  </script>
+</section>
+{{/block}}
