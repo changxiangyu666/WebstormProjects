@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>test</title>
+</head>
+<body>
+<style type="text/css">
+    *{
+        margin:0;
+        padding:0;
+    }
+    .box{
+        display:inline-block;
+        margin: 1%;
+        width: 30%;
+        background: #ff6600;
+    }
+    .box::after{
+        display: block;
+        padding-top: 100%;
+        content : '';
+    }
+</style>
+<div class="box">
+</div>
+<div class="box">
+</div>
+<div class="box">
+</div>
+</body>
+</html>
