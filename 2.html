@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta http-equiv="content-Type" charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <title>Title</title>
+    <style>
+        .cover{
+            position: fixed;
+            /*首先将位置固定住*/
+            top:0;
+            right:0;
+            bottom:0;
+            left:0;
+            /*上下左右设置都为0*/
+            background-color: rgba(0,0,0,0.2);
+
+            z-index:99;
+            /*指定一个元素的堆叠顺序,数值越大,表示在越上边*/
+        }
+        .modal{
+            width:400px;
+            position: absolute;
+            top:50%;
+            left:50%;
+            transform: translate(-50%,-50%);
+            background-color: white;
+            z-index: 100;
+            /*将x的位置移动*/
+            border-radius: 10px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+        }
+        .close{
+            font-size: 16px;
+            cursor: pointer;
+            display: inline-block;
+            width: 100%;
+            text-align: center;
+            margin: 20px auto;
+            color: #020000;
+        }
+        .hide{
+            display: none;
+            /*表示不显示*/
+        }
+        .out{
+            position: relative;
+            text-decoration: none;
+            display: inline-block;
+            width: 100%;
+            text-align: center;
+            padding: 20px 0;
+            /*border-bottom: solid 0.5px #B7B7B7;*/
+            color: #020000;
+        }
+        .out:before {
+            content: "";
+            position: absolute;
+            width: 200%;
+            height: 200%;
+            left: -0%;
+            top: -0%;
+            border-bottom: 1px solid #B7B7B7;
+            -webkit-transform-origin: 0 0;
+            -moz-transform-origin: 0 0;
+            -ms-transform-origin: 0 0;
+            -o-transform-origin: 0 0;
+            transform-origin: 0 0;
+            -webkit-transform: scale(0.5, 0.5);
+            -ms-transform: scale(0.5, 0.5);
+            -o-transform: scale(0.5, 0.5);
+            transform: scale(0.5, 0.5);
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+
+<button id="b1">点我弹出</button>
+
+<div class="cover hide" ></div>
+<!--这个标签通过设置CSS样式,将button及下层的东西盖住,比如注册登录窗口的弹出就需要这个-->
+<!--hide表示不显示这个div标签,注意这个hide写在class里边-->
+
+<div class="modal hide" >
+    <a class="out" href="#">退出登录</a>
+    <span class="close" id="s1">取消</span>
+</div>
+
+<script>
+    // 思考如何实现,在点击弹出按钮之后,弹出两个标签
+    //首先,找标签,注意这个地方是通过id处理的
+    var b1Ele=document.getElementById('b1')
+    //其次,处理事件,单击button之后,找到类属性,移除类列表中的隐藏属性
+    b1Ele.onclick=function (ev) {
+        document.getElementsByClassName('cover')[0].classList.remove('hide');
+        document.getElementsByClassName('modal')[0].classList.remove('hide');
+        //移除样式
+    }
+
+    var s1Ele=document.getElementById('s1')
+    //其次,处理事件,单击button之后,找到类属性,添加类列表中的隐藏属性
+    s1Ele.onclick=function (ev) {
+        document.getElementsByClassName('cover')[0].classList.add('hide');
+        document.getElementsByClassName('modal')[0].classList.add('hide');
+        //移除样式
+    }
+</script>
+</body>
+</html>
+<!--目的就是:一点添加,一点关闭,这样的操作-->
